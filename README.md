@@ -34,13 +34,12 @@ Additionally, the backend infrastructure does capture timestamps for deleted_at 
 
 Below are screenshots demonstrating the user flow within the application:
 
-1. **Homepage**: [Screenshot 1![Screen Shot 2024-08-12 at 6 10 23 PM](https://github.com/user-attachments/assets/617cdc6c-1c14-469b-a39c-56c9425fcf30)
-]
-2. **Team Public Page**: [Screenshot 2]
-3. **Register and Login**: [Screenshot 3]
-4. **Dashboard**: [Screenshot 4]
-5. **Player CRUD**: [Screenshot 5]
-6. **Team CRUD**: [Screenshot 6]
+1. **Homepage**: ![Screen Shot 2024-08-12 at 6 19 03 PM](https://github.com/user-attachments/assets/570e3c0f-0862-4855-92bf-64682c401a1a)
+2. **Team Public Page**: ![Screen Shot 2024-08-12 at 6 10 23 PM](https://github.com/user-attachments/assets/617cdc6c-1c14-469b-a39c-56c9425fcf30)]
+3. **Register and Login**: ![Screen Shot 2024-08-12 at 6 20 08 PM](https://github.com/user-attachments/assets/5f308297-f20a-4832-84d9-31a68306793e)
+4. **Dashboard**:![Screen Shot 2024-08-12 at 6 20 45 PM](https://github.com/user-attachments/assets/9943572d-c5d7-4711-a70f-2b64d873657c)
+5. **Player CRUD**: ![Screen Shot 2024-08-12 at 6 21 12 PM](https://github.com/user-attachments/assets/43d1a454-b51f-40a7-b8eb-a1ba254224f8)
+6. **Team CRUD**: ![Screen Shot 2024-08-12 at 6 21 46 PM](https://github.com/user-attachments/assets/22c21b88-6e74-4a10-b163-b7ce83d9bf17)
 
 ## Incomplete Features
 
