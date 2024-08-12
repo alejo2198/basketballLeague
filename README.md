@@ -34,7 +34,8 @@ Additionally, the backend infrastructure does capture timestamps for deleted_at 
 
 Below are screenshots demonstrating the user flow within the application:
 
-1. **Homepage**: [Screenshot 1]
+1. **Homepage**: [Screenshot 1![Screen Shot 2024-08-12 at 6 10 23 PM](https://github.com/user-attachments/assets/617cdc6c-1c14-469b-a39c-56c9425fcf30)
+]
 2. **Team Public Page**: [Screenshot 2]
 3. **Register and Login**: [Screenshot 3]
 4. **Dashboard**: [Screenshot 4]
